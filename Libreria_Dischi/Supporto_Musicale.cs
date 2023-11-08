@@ -19,6 +19,8 @@ namespace Libreria_Dischi
         {
             return $"{id}, {nome}, {descrizione}, {prezzo_unitario}, {ListaBrani.Count}";
         }
+        
+        
 
 
 
