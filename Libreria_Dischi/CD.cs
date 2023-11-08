@@ -8,7 +8,7 @@ namespace Libreria_Dischi
 {
     public class CD : Supporto_Musicale
     {
-        public CD {public String nome; public String descrizione; public decimal prezzo_unitario; public 
+        public CD {public String nome; public String descrizione; public decimal prezzo_unitario}
     }
    
 }
